@@ -7,6 +7,7 @@
   - 适用于搭建私有化PMP/项目管理培训平台
   - 支持课程管理、在线考试、证书颁发等完整功能
   - 开源协议：Apache 2.0 License
+  - 源码镜像：[chinawisdom/openolat](https://github.com/chinawisdom/openolat)
 
 ## 仓库用途
 - 集中管理项目管理培训相关的开源工具
